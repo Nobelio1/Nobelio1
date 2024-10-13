@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,discord,docker,figma,git,github,idea,notion,postman" />
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,androidstudio,discord,docker,figma,git,github,idea,notion,postman" />
   </a>
 </p>
 
